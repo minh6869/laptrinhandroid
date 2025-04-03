@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/menu_item_running"
+        android:title="Running"
+        android:icon="@drawable/ic_launcher_foreground"
+        />
+    <item
+        android:id="@+id/menu_item_cycling"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="Cycling" />
+    <item
+        android:id="@+id/menu_item_walking"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Walking" />
+
+</menu>
